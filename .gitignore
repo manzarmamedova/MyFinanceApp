@@ -1,0 +1,32 @@
+# Maven
+/target/
+.mvn/wrapper/maven-wrapper.jar
+
+# IDEs
+/.idea/
+/*.iml
+.vscode/
+/.project
+.classpath
+.settings
+.springBeans
+.apt_generated
+.factorypath
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+/build/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Sensitive config
+src/main/resources/application.properties
