@@ -94,8 +94,5 @@ Passwords are encrypted with BCrypt
 
 application.properties is ignored in Git to protect credentials
 
-Notes
 
-Make sure your PostgreSQL service is running before starting the application
 
-You can extend this project by adding unit tests, Docker support, or a frontend
