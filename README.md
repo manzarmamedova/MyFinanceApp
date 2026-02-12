@@ -16,7 +16,7 @@ A simple finance management backend application built with **Spring Boot**, **Ja
 
 ## Technology Stack
 
-- Java 23
+- Java 17
 - Spring Boot 3.5
 - PostgreSQL
 - Spring Security with JWT
