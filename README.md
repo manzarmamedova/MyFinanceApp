@@ -1,6 +1,6 @@
 # MyFinanceApp
 
-A simple finance management backend application built with **Spring Boot**, **Java**, **PostgreSQL**, and **JWT authentication**.
+A  finance management backend application built with **Spring Boot**, **Java**, **PostgreSQL**, and **JWT authentication**.
 
 ---
 
