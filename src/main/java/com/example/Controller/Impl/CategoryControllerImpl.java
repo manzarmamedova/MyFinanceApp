@@ -12,7 +12,7 @@ import java.util.List;
 
 /**
  * CategoryControllerImpl
- *
+
  * REST controller implementation for managing categories.
  * Provides endpoints for CRUD operations on Category entity.
  */
